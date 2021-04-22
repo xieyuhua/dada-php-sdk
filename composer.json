@@ -1,12 +1,12 @@
 {
-    "name": "xiang1993/dada",
+    "name": "xieyuhua/dadax",
     "description": "达达开放平台接口",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "xiang",
-            "email": "2792938834@qq.com"
+            "name": "xie",
+            "email": "1130107515@qq.com"
         }
     ],
     "require": {
