@@ -1,8 +1,8 @@
 <?php
 
-namespace Dada;
+namespace Dadax;
 
-use Dada\Base;
+use Dadax\Base;
 
 class Shop
 {

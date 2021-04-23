@@ -1,6 +1,6 @@
 <?php
 
-namespace Dada;
+namespace Dadax;
 
 use GuzzleHttp\Client;
 

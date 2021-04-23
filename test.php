@@ -2,7 +2,7 @@
 
 require "vendor/autoload.php";
 
-use Dada\Base;
+use Dadax\Base;
 
 $dada = new Base('dada731986294545472fed98', '226c4be7003a1342599a9d784e1');
 $dada->setSourceId('73753');
